@@ -13,10 +13,11 @@
  * 
  */
 
-// Lab 9 : Rahil Sharma
+// Lab 9 : Rahil Sharma (Edited original)
 //compile : nvcc -o fractal_par fractal_par.cu -lpthread -lglut -lGL
 //run : ./fractal_par
 //(also)run : double click on the object file created after compilation 
+
 #include "book.h"
 #include "cpu_bitmap.h"
 
